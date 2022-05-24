@@ -147,5 +147,4 @@ nano start_ergo.sh # to edit your info
 ./start_ergo.sh # to start mining
 ```
 
-# amd overclock settings
-- https://github.com/dbuchacher/ubuntu-crypo-mining/blob/main/amd%20overclock%20settings.md
+# [amd overclock settings](https://github.com/dbuchacher/linux/blob/main/amd-overclock.md)
